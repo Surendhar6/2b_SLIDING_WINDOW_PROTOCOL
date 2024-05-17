@@ -1,6 +1,11 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+
+### Name : Surendhar A
+### Reg. No. : 212222110049
+
 ## AIM: 
 To perform a study on sliding window protocol.
+
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
@@ -8,6 +13,7 @@ To perform a study on sliding window protocol.
 4. To send frames to server from the client side.
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
+   
 ## PROGRAM
 ### Server 
 ```
