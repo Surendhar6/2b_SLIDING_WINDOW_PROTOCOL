@@ -48,11 +48,12 @@ while True:
 ```
 
 ## OUPUT
-### Server 
-![image](https://github.com/Surendhar6/2b_SLIDING_WINDOW_PROTOCOL/assets/118352907/78651fb9-aac3-4687-8e93-31f6449c816c)
 
 ### Client
 ![image](https://github.com/Surendhar6/2b_SLIDING_WINDOW_PROTOCOL/assets/118352907/25891a3f-de96-4904-908a-d1eb848469bf)
+
+### Server 
+![image](https://github.com/Surendhar6/2b_SLIDING_WINDOW_PROTOCOL/assets/118352907/78651fb9-aac3-4687-8e93-31f6449c816c)
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
